@@ -6,7 +6,7 @@ import numpy as np
 
 import pygame
 # Load OpenPose:
-sys.path.append('/usr/local/python')
+# sys.path.append('/usr/local/python')
 from openpose import pyopenpose as op
 
 
